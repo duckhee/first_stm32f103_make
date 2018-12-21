@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "misc.h": "c",
+        "stm32f10x.h": "c",
+        "main_menu.h": "c",
+        "hw_config.h": "c"
+    }
+}
